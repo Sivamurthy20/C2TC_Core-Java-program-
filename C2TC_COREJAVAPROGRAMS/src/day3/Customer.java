@@ -8,8 +8,9 @@ public class Customer {
 	
 	public Customer() {
 		System.out.println("Default Constructor");
+		
+		
 	}
-	
 	
 	public Customer(String customerName, int customerId, String customerCity) {
 		
