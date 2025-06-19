@@ -7,7 +7,10 @@ public class Person {
 	private String city;
 	public Person()
 	{
-		System.out.println("Constructor");
+		System.out.println("Default Constructor");
+		this.id = 1002;
+		this.name = "Siva";
+		this.city = "KK Nagar";
 	}
 	
 	public Person(int id, String name,String city) {
