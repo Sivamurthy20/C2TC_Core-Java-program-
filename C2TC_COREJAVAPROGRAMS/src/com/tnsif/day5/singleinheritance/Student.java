@@ -1,4 +1,4 @@
-package com.tnsif.day5;
+package com.tnsif.day5.singleinheritance;
 
 public class Student extends Citizen {
 	private int rollNo;
