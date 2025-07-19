@@ -6,10 +6,7 @@ final class FinalClass {
 	}
 }
 
-class FinalChildClass extends FinalClass {
-}
-
-public class FinalClassDemo {
+public class FinalChildDemo {
 	public static void main(String[] args) {
 		
 		FinalClass f1 = new FinalClass(); 
